@@ -1,0 +1,19 @@
+.article {
+  margin: 20px auto;
+}
+
+.background-left {
+  background-size: 85%;
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+
+.background-right {
+  background-size: 85%;
+  background-repeat: no-repeat;
+  background-position: right center;
+}
+
+.background-wrapper {
+  background: rgba(255,255,255,0.8);
+}
