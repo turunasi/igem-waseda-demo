@@ -53,10 +53,10 @@
 						<div class="col s12 m6">
 							<a href="<?php echo $new_event['anchor'] ?>">
 								<div class="card teal lighten-1">
-									<div class="card-content black-text">
+									<div class="card-content white-text">
 										<div class="row">
 											<img class="circle responsive-img col" src="img/article.png">
-											<div class="col">
+											<div class="col s8">
 												<h6><?php echo $new_event['title'] ?: 'タイトル未設定';?></h6>
 												<p class="truncate"><?php echo $new_event['content'] ?: '本文未設定'; ?></p>
 											</div>
